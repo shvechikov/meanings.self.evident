@@ -1,0 +1,103 @@
+type,old_name,new_name,date,comment
+transcript,2023_03_03_pinker.md,2023_03_03_S01E01_pinker.md,2023-03-03,S01E01 - Парадокс Пинкера
+image,images/2023_03_03_pinker.jpg,images/2023_03_03_S01E01_pinker.jpg,2023-03-03,S01E01 - Парадокс Пинкера
+transcript,2023_03_11_apocalypse.md,2023_03_11_S01E02_apocalypse.md,2023-03-11,S01E02 - Апокалипсис и Трансгуманизм
+image,images/2023_03_11_apocalypse.jpg,images/2023_03_11_S01E02_apocalypse.jpg,2023-03-11,S01E02 - Апокалипсис и Трансгуманизм
+transcript,2023_03_18_faust.md,2023_03_18_S01E03_faust.md,2023-03-18,S01E03 - Цивилизация Фауста
+image,images/2023_03_18_faust.jpg,images/2023_03_18_S01E03_faust.jpg,2023-03-18,S01E03 - Цивилизация Фауста
+transcript,2023_03_25_identity.md,2023_03_25_S01E04_identity.md,2023-03-25,S01E04 - Культ идентичности
+image,images/2023_03_25_identity.jpg,images/2023_03_25_S01E04_identity.jpg,2023-03-25,S01E04 - Культ идентичности
+transcript,2023_04_01_orange.md,2023_04_01_S01E05_orange.md,2023-04-01,S01E05 - Заводной апельсин
+image,images/2023_04_01_orange.jpg,images/2023_04_01_S01E05_orange.jpg,2023-04-01,S01E05 - Заводной апельсин
+transcript,2023_04_08_snowflakes.md,2023_04_08_S01E06_snowflakes.md,2023-04-08,S01E06 - Поколение Снежинок
+image,images/2023_04_08_snowflakes.jpg,images/2023_04_08_S01E06_snowflakes.jpg,2023-04-08,S01E06 - Поколение Снежинок
+transcript,2023_04_15_limits.md,2023_04_15_S01E07_limits.md,2023-04-15,S01E07 - Пределы человечности
+image,images/2023_04_15_limits.jpg,images/2023_04_15_S01E07_limits.jpg,2023-04-15,S01E07 - Пределы человечности
+transcript,2023_04_22_ai.md,2023_04_22_S01E08_ai.md,2023-04-22,S01E08 - AI. Идеальный собеседник
+image,images/2023_04_22_ai.jpg,images/2023_04_22_S01E08_ai.jpg,2023-04-22,S01E08 - AI. Идеальный собеседник
+transcript,2023_04_29_vr.md,2023_04_29_S01E09_vr.md,2023-04-29,S01E09 - AI. Великое Разделение
+image,images/2023_04_29_vr.jpg,images/2023_04_29_S01E09_vr.jpg,2023-04-29,S01E09 - AI. Великое Разделение
+transcript,2023_05_06_mt.md,2023_05_06_S01E10_mt.md,2023-05-06,S01E10 - Манифест традиционалистов
+image,images/2023_05_06_mt.jpg,images/2023_05_06_S01E10_mt.jpg,2023-05-06,S01E10 - Манифест традиционалистов
+transcript,2023_05_13_otvety.md,2023_05_13_S01E11_otvety.md,2023-05-13,S01E11 - Ответы на вопросы слушателей
+image,images/2023_05_13_otvety.jpg,images/2023_05_13_S01E11_otvety.jpg,2023-05-13,S01E11 - Ответы на вопросы слушателей
+transcript,2023_05_21_final.md,2023_05_21_S01E12_final.md,2023-05-21,S01E12 - Воинская повинность, национализм и выбор идентичности (финал)
+image,images/2023_05_21_final.jpg,images/2023_05_21_S01E12_final.jpg,2023-05-21,S01E12 - Воинская повинность, национализм и выбор идентичности (финал)
+transcript,2023_09_17_your-flash-memory-card-with-identity.md,2023_09_17_S02E01_your-flash-memory-card-with-identity.md,2023-09-17,S02E01 - Идентичность. Человек-флешка
+image,images/2023_09_17_your-flash-memory-card-with-identity.jpg,images/2023_09_17_S02E01_your-flash-memory-card-with-identity.jpg,2023-09-17,S02E01 - Идентичность. Человек-флешка
+transcript,2023_09_26_placeandtime.md,2023_09_26_S02E02_placeandtime.md,2023-09-26,S02E02 - Основы идентичности. Место и время
+image,images/2023_09_26_placeandtime.jpg,images/2023_09_26_S02E02_placeandtime.jpg,2023-09-26,S02E02 - Основы идентичности. Место и время
+transcript,2023_10_01_political-identity.md,2023_10_01_S02E03_political-identity.md,2023-10-01,S02E03 - Политическая идентичность. Свои и чужие
+image,images/2023_10_01_political-identity.jpg,images/2023_10_01_S02E03_political-identity.jpg,2023-10-01,S02E03 - Политическая идентичность. Свои и чужие
+transcript,2023_10_08_asabiya.md,2023_10_08_S02E04_asabiya.md,2023-10-08,S02E04 - Политическая борьба. Асабия
+image,images/2023_10_08_asabiya.jpg,images/2023_10_08_S02E04_asabiya.jpg,2023-10-08,S02E04 - Политическая борьба. Асабия
+transcript,2023_10_14_the-crisis-of-identity.md,2023_10_14_S02E05_the-crisis-of-identity.md,2023-10-14,S02E05 - NPC. Кризис идентичности
+image,images/2023_10_14_the-crisis-of-identity.jpg,images/2023_10_14_S02E05_the-crisis-of-identity.jpg,2023-10-14,S02E05 - NPC. Кризис идентичности
+transcript,2023_10_23_mimetic.md,2023_10_23_S02E06_mimetic.md,2023-10-23,S02E06 - Миметический кризис
+image,images/2023_10_23_mimetic.jpg,images/2023_10_23_S02E06_mimetic.jpg,2023-10-23,S02E06 - Миметический кризис
+transcript,2023_10_28_technology-instead-of-faith.md,2023_10_28_S02E07_technology-instead-of-faith.md,2023-10-28,S02E07 - Технология вместо веры
+image,images/2023_10_28_technology-instead-of-faith.jpg,images/2023_10_28_S02E07_technology-instead-of-faith.jpg,2023-10-28,S02E07 - Технология вместо веры
+transcript,2023_11_05_a-leap-of-faith.md,2023_11_05_S02E08_a-leap-of-faith.md,2023-11-05,S02E08 - Прыжок веры
+image,images/2023_11_05_a-leap-of-faith.jpg,images/2023_11_05_S02E08_a-leap-of-faith.jpg,2023-11-05,S02E08 - Прыжок веры
+transcript,2023_11_13_identity-conclusion.md,2023_11_13_S02E09_identity-conclusion.md,2023-11-13,S02E09 - Идентичность. Развязка
+image,images/2023_11_13_identity-conclusion.jpg,images/2023_11_13_S02E09_identity-conclusion.jpg,2023-11-13,S02E09 - Идентичность. Развязка
+transcript,2023_11_26_identity-qa.md,2023_11_26_S02E10_identity-qa.md,2023-11-26,S02E10 - Идентичность. Ответы на вопросы
+image,images/2023_11_26_identity-qa.jpg,images/2023_11_26_S02E10_identity-qa.jpg,2023-11-26,S02E10 - Идентичность. Ответы на вопросы
+transcript,2023_12_02_monarchs-and-agenda.md,2023_12_02_S02E11_monarchs-and-agenda.md,2023-12-02,S02E11 - Монархизм. Номинализм. Повесточка
+image,images/2023_12_02_monarchs-and-agenda.jpg,images/2023_12_02_S02E11_monarchs-and-agenda.jpg,2023-12-02,S02E11 - Монархизм. Номинализм. Повесточка
+transcript,2023_12_11_the-joy-of-understanding.md,2023_12_11_S02E12_the-joy-of-understanding.md,2023-12-11,S02E12 - Радость понимания. Финал сезона
+image,images/2023_12_11_the-joy-of-understanding.jpg,images/2023_12_11_S02E12_the-joy-of-understanding.jpg,2023-12-11,S02E12 - Радость понимания. Финал сезона
+transcript,2024_05_04_republic.md,2024_05_04_S03E01_republic.md,2024-05-04,S03E01 - Археология понятий. Республика
+image,images/2024_05_04_republic.jpg,images/2024_05_04_S03E01_republic.jpg,2024-05-04,S03E01 - Археология понятий. Республика
+transcript,2024_05_10_democracy.md,2024_05_10_S03E02_democracy.md,2024-05-10,S03E02 - Археология понятий. Демократия
+image,images/2024_05_10_democracy.jpg,images/2024_05_10_S03E02_democracy.jpg,2024-05-10,S03E02 - Археология понятий. Демократия
+transcript,2024_05_17_imperia.md,2024_05_17_S03E03_imperia.md,2024-05-17,S03E03 - Археология понятий. Империя
+image,images/2024_05_17_imperia.jpg,images/2024_05_17_S03E03_imperia.jpg,2024-05-17,S03E03 - Археология понятий. Империя
+transcript,2024_05_25_people.md,2024_05_25_S03E04_people.md,2024-05-25,S03E04 - Археология понятий. Народ
+image,images/2024_05_25_people.jpg,images/2024_05_25_S03E04_people.jpg,2024-05-25,S03E04 - Археология понятий. Народ
+transcript,2024_05_31_reforma.md,2024_05_31_S03E05_reforma.md,2024-05-31,S03E05 - Первая Великая Реформа
+image,images/2024_05_31_reforma.jpg,images/2024_05_31_S03E05_reforma.jpg,2024-05-31,S03E05 - Первая Великая Реформа
+transcript,2024_06_07_renaissance.md,2024_06_07_S03E06_renaissance.md,2024-06-07,S03E06 - Плоды Реформы. Ренессанс
+image,images/2024_06_07_renaissance.jpg,images/2024_06_07_S03E06_renaissance.jpg,2024-06-07,S03E06 - Плоды Реформы. Ренессанс
+transcript,2024_06_14_varlaam.md,2024_06_14_S03E07_varlaam.md,2024-06-14,S03E07 - Варлаам и Палама. Реформа или Преображение
+image,images/2024_06_14_varlaam.jpg,images/2024_06_14_S03E07_varlaam.jpg,2024-06-14,S03E07 - Варлаам и Палама. Реформа или Преображение
+transcript,2024_06_22_bacon.md,2024_06_22_S03E08_bacon.md,2024-06-22,S03E08 - Бэкон и Декарт. Ставка на разум
+image,images/2024_06_22_bacon.jpg,images/2024_06_22_S03E08_bacon.jpg,2024-06-22,S03E08 - Бэкон и Декарт. Ставка на разум
+transcript,2024_06_28_mendacium.md,2024_06_28_S03E09_mendacium.md,2024-06-28,S03E09 - Технология и корпоративное лукавство
+image,images/2024_06_28_mendacium.jpg,images/2024_06_28_S03E09_mendacium.jpg,2024-06-28,S03E09 - Технология и корпоративное лукавство
+transcript,2024_07_05_enlightenment.md,2024_07_05_S03E10_enlightenment.md,2024-07-05,S03E10 - Легенда об эпохе Просвещения
+image,images/2024_07_05_enlightenment.jpg,images/2024_07_05_S03E10_enlightenment.jpg,2024-07-05,S03E10 - Легенда об эпохе Просвещения
+transcript,2024_07_17_obscurantism.md,2024_07_17_S03E11_obscurantism.md,2024-07-17,S03E11 - Об ученых и мракобесии
+image,images/2024_07_17_obscurantism.jpg,images/2024_07_17_S03E11_obscurantism.jpg,2024-07-17,S03E11 - Об ученых и мракобесии
+transcript,2024_07_26_final3.md,2024_07_26_S03E12_final3.md,2024-07-26,S03E12 - Современные культы древних богов. Финал сезона
+image,images/2024_07_26_final3.jpg,images/2024_07_26_S03E12_final3.jpg,2024-07-26,S03E12 - Современные культы древних богов. Финал сезона
+transcript,2025_01_17_ontology_of_lies.md,2025_01_17_S04E01_ontology_of_lies.md,2025-01-17,S04E01 - Онтология лжи
+image,images/2025_01_17_ontology_of_lies.jpg,images/2025_01_17_S04E01_ontology_of_lies.jpg,2025-01-17,S04E01 - Онтология лжи
+transcript,2025_01_24_freedom-and-quadrobers.md,2025_01_24_S04E02_freedom-and-quadrobers.md,2025-01-24,S04E02 - Свобода и Квадроберы
+image,images/2025_01_24_freedom-and-quadrobers.jpg,images/2025_01_24_S04E02_freedom-and-quadrobers.jpg,2025-01-24,S04E02 - Свобода и Квадроберы
+transcript,2025_01_31_battle_of_the_sexes.md,2025_01_31_S04E03_battle_of_the_sexes.md,2025-01-31,S04E03 - Война полов
+image,images/2025_01_31_battle_of_the_sexes.jpg,images/2025_01_31_S04E03_battle_of_the_sexes.jpg,2025-01-31,S04E03 - Война полов
+transcript,2025_02_07_human_vs_humanity.md,2025_02_07_S04E04_human_vs_humanity.md,2025-02-07,S04E04 - Человек vs. Человечность
+image,images/2025_02_07_human_vs_humanity.jpg,images/2025_02_07_S04E04_human_vs_humanity.jpg,2025-02-07,S04E04 - Человек vs. Человечность
+transcript,2025_02_14_confession.md,2025_02_14_S04E05_confession.md,2025-02-14,S04E05 - Исповедь на кушетке
+image,images/2025_02_14_confession.jpg,images/2025_02_14_S04E05_confession.jpg,2025-02-14,S04E05 - Исповедь на кушетке
+transcript,2025_02_28_muses_of_tradition.md,2025_02_28_S04E06_muses_of_tradition.md,2025-02-28,S04E06 - Музы традиции
+image,images/2025_02_28_muses_of_tradition.jpg,images/2025_02_28_S04E06_muses_of_tradition.jpg,2025-02-28,S04E06 - Музы традиции
+transcript,2025_03_21_vinaiotvetsvennosti.md,2025_03_21_S04E07_vinaiotvetsvennosti.md,2025-03-21,S04E07 - Логика вины и логика причинности
+image,images/2025_03_21_vinaiotvetsvennosti.jpg,images/2025_03_21_S04E07_vinaiotvetsvennosti.jpg,2025-03-21,S04E07 - Логика вины и логика причинности
+transcript,2025_04_04_the-courage-to-be.md,2025_04_04_S04E08_the-courage-to-be.md,2025-04-04,S04E08 - Мужество быть
+image,images/2025_04_04_the-courage-to-be.jpg,images/2025_04_04_S04E08_the-courage-to-be.jpg,2025-04-04,S04E08 - Мужество быть
+transcript,2025_04_11_dukhovny-fast-food.md,2025_04_11_S04E09_dukhovny-fast-food.md,2025-04-11,S04E09 - Духовный фастфуд
+image,images/2025_04_11_dukhovny-fast-food.jpg,images/2025_04_11_S04E09_dukhovny-fast-food.jpg,2025-04-11,S04E09 - Духовный фастфуд
+transcript,2025_05_08_lukewarm.md,2025_05_08_S04E10_lukewarm.md,2025-05-08,S04E10 - Цена теплохладности
+image,images/2025_05_08_lukewarm.jpg,images/2025_05_08_S04E10_lukewarm.jpg,2025-05-08,S04E10 - Цена теплохладности
+transcript,2025_05_23_narrative-wars.md,2025_05_23_S04E11_narrative-wars.md,2025-05-23,S04E11 - Война нарративов
+image,images/2025_05_23_narrative-wars.jpg,images/2025_05_23_S04E11_narrative-wars.jpg,2025-05-23,S04E11 - Война нарративов
+transcript,2025_06_20_eschatological-optimism.md,2025_06_20_S04E12_eschatological-optimism.md,2025-06-20,S04E12 - Эсхатологический оптимизм. Финал сезона
+image,images/2025_06_20_eschatological-optimism.jpg,images/2025_06_20_S04E12_eschatological-optimism.jpg,2025-06-20,S04E12 - Эсхатологический оптимизм. Финал сезона
+transcript,2023_08_03_polit_nemota.md,2023_08_03_SE01_polit_nemota.md,2023-08-03,SE01 - Разговор о главном. Политическая Немота
+image,images/2023_08_03_polit_nemota.jpg,images/2023_08_03_SE01_polit_nemota.jpg,2023-08-03,SE01 - Разговор о главном. Политическая Немота
+transcript,2024_06_29_straw_man.md,2024_06_29_SE02_straw_man.md,2024-06-29,SE02 - В краю соломенных чучел
+image,images/2024_06_29_straw_man.jpg,images/2024_06_29_SE02_straw_man.jpg,2024-06-29,SE02 - В краю соломенных чучел
+transcript,2024_12_28_year2024.md,2024_12_28_SE03_year2024.md,2024-12-28,SE03 - Год невыученных уроков
+image,images/2024_12_28_year2024.jpg,images/2024_12_28_SE03_year2024.jpg,2024-12-28,SE03 - Год невыученных уроков
